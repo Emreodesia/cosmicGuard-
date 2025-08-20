@@ -1,3 +1,6 @@
+
+![Uploading Gemini_Generated_Image_97faui97faui97fa.png…]()
+
 # 🚀 Space Ship Defense Game
 
 A thrilling space shooter defense game built with HTML5 Canvas and vanilla JavaScript. Defend your spaceship against incoming asteroids and alien ships!
@@ -119,3 +122,4 @@ This project is open source and available under the MIT License.
 ---
 
 **Ready to defend the galaxy? Launch the game and start your space adventure!** 🚀✨
+
