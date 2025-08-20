@@ -1,5 +1,5 @@
 <img width="2048" height="1895" alt="Gemini_Generated_Image_97faui97faui97fa" src="https://github.com/user-attachments/assets/4931595f-e712-438d-a531-3b28928b35f9" />
-![Uploading Gemini_Generated_Image_97faui97faui97fa.png
+
 
 
 # 🚀 Space Ship Defense Game
@@ -123,5 +123,6 @@ This project is open source and available under the MIT License.
 ---
 
 **Ready to defend the galaxy? Launch the game and start your space adventure!** 🚀✨
+
 
 
