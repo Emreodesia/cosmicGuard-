@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Ship Defense Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="hud">
+            <div class="health-bar">
+                <span>Health:</span>
+                <div class="health-fill"></div>
+            </div>
+            <div class="score">Score: <span id="score">0</span></div>
+            <div class="level">Level: <span id="level">1</span></div>
+        </div>
+        
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+        
+        <div class="game-over" id="gameOver" style="display: none;">
+            <h2>Game Over</h2>
+            <p>Final Score: <span id="finalScore">0</span></p>
+            <p>Press R to Restart</p>
+        </div>
+        
+        <div class="start-screen" id="startScreen">
+            <h1>Space Ship Defense</h1>
+            <p>Use Arrow Keys or A/D to move, Spacebar to shoot</p>
+            <button id="startButton">Start Game</button>
+        </div>
+    </div>
+    
+    <script src="player.js"></script>
+    <script src="enemy.js"></script>
+    <script src="bullet.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
